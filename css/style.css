@@ -83,6 +83,7 @@ body {
   box-shadow: 0px 3px 0px 0px hsl(154, 57%, 37%);
   border-radius: 5px;
   transition: 0.2s;
+  border: none;
 }
 
 .form .form-btn:hover {
